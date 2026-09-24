@@ -1,0 +1,8 @@
+streamlit
+pillow
+numpy
+requests
+cryptography
+eth-account
+streamlit-javascript
+psycopg2-binary
